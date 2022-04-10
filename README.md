@@ -19,7 +19,7 @@
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBell95&layout=compact&exclude_repo=amazon-clone" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBell95&layout=compact" 
          alt="TomBell95"
          style="max-width: 100%; min-width: 100%;">
   </a>
