@@ -25,6 +25,7 @@
   </a>
 </p>
 
+<!-- LANGUAGES -->
 <p align="center" dir="auto">
   <code>
     <a 
@@ -70,10 +71,10 @@
        target="_blank" 
        rel="noopener noreferrer" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667">
       <img 
-           title="ReactJS" 
-           alt="react js" 
+           title="VueJS" 
+           alt="vue js" 
            width="40px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" 
            style="max-width: 100%;">
     </a>
   </code>
@@ -83,10 +84,10 @@
        target="_blank" 
        rel="noopener noreferrer" href="https://camo.githubusercontent.com/85a3f21551aec9137fd7627cd9b4ce0f7cf844ab80f26e7f091cc3c39d117e2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6761747362792f6761747362792d6f726967696e616c2e737667">
       <img 
-           title="GatsbyJS" 
-           alt="gatsby js" 
+           title="NuxtJS" 
+           alt="nuxt js" 
            width="40px" src="https://camo.githubusercontent.com/85a3f21551aec9137fd7627cd9b4ce0f7cf844ab80f26e7f091cc3c39d117e2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6761747362792f6761747362792d6f726967696e616c2e737667" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" 
+           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" 
            style="max-width: 100%;">
     </a>
   </code>
