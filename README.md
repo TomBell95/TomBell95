@@ -180,3 +180,17 @@
   </code>
   
 </p>
+
+<p 
+   align="center" 
+   dir="auto">
+  <a 
+     target="_blank" 
+     rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
+    <img 
+         src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
+         alt="Adrian's contribution graph" 
+         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
+         style="max-width: 100%;">
+  </a>
+</p>
