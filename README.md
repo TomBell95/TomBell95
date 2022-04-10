@@ -153,16 +153,17 @@
   
   <code>
     <a 
-       target="_blank" 
-       rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-original.svg">
-    <img 
-        title="Firebase" 
-        alt="firebase" 
-        width="40px" 
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-original.svg" 
-        data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-original.svg" 
-        style="max-width: 100%;">
-    </a>
+     target="_blank" 
+     rel="noopener noreferrer" 
+     href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+        <img 
+            title="Firebase" 
+            alt="firebase" 
+            width="40px" 
+            src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
+            data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
+            style="max-width: 100%;">
+        </a>
   </code>
   
   <code>
