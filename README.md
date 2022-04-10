@@ -34,7 +34,8 @@
       <img 
            title="HTML 5" 
            alt="html 5" 
-           width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+           width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
            style="max-width: 100%;">
     </a>
@@ -47,7 +48,8 @@
       <img 
            title="CSS 3" 
            alt="css 3" 
-           width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+           width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
            style="max-width: 100%;">
     </a>
@@ -60,7 +62,8 @@
       <img 
            title="JavaScript" 
            alt="javascript" 
-           width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+           width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
            style="max-width: 100%;">
     </a>
@@ -73,8 +76,9 @@
       <img 
            title="VueJS" 
            alt="vue js" 
-           width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" 
+           width="40px" 
+           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
+           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
            style="max-width: 100%;">
     </a>
   </code>
@@ -86,8 +90,9 @@
       <img 
            title="NuxtJS" 
            alt="nuxt js" 
-           width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" 
+           width="40px" 
+           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
+           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
            style="max-width: 100%;">
     </a>
   </code>
