@@ -186,11 +186,11 @@
    dir="auto">
   <a 
      target="_blank" 
-     rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
+     rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=gotham">
     <img 
-         src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
+         src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=gotham" 
          alt="Adrian's contribution graph" 
-         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
+         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=gotham" 
          style="max-width: 100%;">
   </a>
 </p>
