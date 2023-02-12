@@ -59,7 +59,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img title="Next.js" width="48" height="48" src="https://nextjs.org/static/images/case-studies/hulu/next.js.svg">
+        <img title="Next.js" width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
       </a>
       <br>Next.js
     </td>
