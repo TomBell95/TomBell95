@@ -26,7 +26,7 @@
 </p>
 
 <!-- LANGUAGES -->
-<p align="center" dir="auto">
+<p align="center" dir="auto" style="display:flex;">
   <code>
     <a 
        target="_blank" 
