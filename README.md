@@ -32,48 +32,6 @@
        >
   </a>
 </p>
-  
-<p align="center">
-  <code>
-    
-  </code>
-  <code>
-
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    
-  </code>
-  <code>
-    <img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  </code>
-</p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -131,7 +89,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img title="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img title="MongoDB" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">
       </a>
       <br>MongoDB
