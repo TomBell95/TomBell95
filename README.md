@@ -146,7 +146,6 @@
           data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
           style="max-width: 100%;">
     </a>
-  </code>
   
 </p>
 
