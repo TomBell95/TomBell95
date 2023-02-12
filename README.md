@@ -16,6 +16,21 @@
   </a>
 </p>
 
+<p 
+   align="center" 
+   dir="auto">
+  <a 
+     target="_blank" 
+     rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
+    <img 
+         src="https://github-readme-activity-graph.cyclic.app/graph?username=TomBell95&theme=react" 
+         alt="Tom's contribution graph" 
+         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
+         style="max-width: 100%;">
+  </a>
+</p>
+
+<!-- LANGUAGES 
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
@@ -24,7 +39,7 @@
          style="max-width: 100%; min-width: 100%;">
   </a>
 </p>
-<!-- LANGUAGES 
+
 <p align="center" dir="auto" style="display:flex;">
   <code>
     <a 
@@ -170,17 +185,3 @@
 </p>
 
 -->
-
-<p 
-   align="center" 
-   dir="auto">
-  <a 
-     target="_blank" 
-     rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
-    <img 
-         src="https://github-readme-activity-graph.cyclic.app/graph?username=TomBell95&theme=react" 
-         alt="Tom's contribution graph" 
-         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
-         style="max-width: 100%;">
-  </a>
-</p>
