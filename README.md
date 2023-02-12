@@ -7,7 +7,7 @@
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
-       src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=vue" 
+       src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=react" 
        alt="TomBell95"
        style="max-width: 100%; min-width: 100%;">
   </a>
@@ -16,7 +16,7 @@
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
-       src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" 
        alt="TomBell95" 
        style="max-width: 100%;">
   </a>
