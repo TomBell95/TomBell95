@@ -4,63 +4,36 @@
     </a>
 </h1>
 
-<p align="center" dir="auto">
+<p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
-         src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=vue" 
-         alt="TomBell95"
-         style="max-width: 100%; min-width: 100%;">
+       src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=vue" 
+       alt="TomBell95"
+       style="max-width: 100%; min-width: 100%;">
   </a>
 </p>
 
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
-         src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-         alt="TomBell95" 
-         style="max-width: 100%;">
-  </a>
-</p>
-
-<p 
-   align="center" 
-   dir="auto">
-  <a 
-     target="_blank" 
-     rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
-    <img 
-         src="https://github-readme-activity-graph.cyclic.app/graph?username=TomBell95&theme=react" 
-         alt="Tom's contribution graph" 
-         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
-         style="max-width: 100%;">
+       src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+       alt="TomBell95" 
+       style="max-width: 100%;">
   </a>
 </p>
 
 <p align="center">
-  
-  
-  
-  <code>
-        <img 
-            title="Firebase" 
-            alt="firebase" 
-            height="25"
-            src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
-            data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
-            >
-  </code>
-  <code>
-        <img 
-          title="Git" 
-          alt="git" 
-          height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
-          data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
-          >
-  </code>
-  <code>
+  <a target="_blank" rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
+    <img 
+         src="https://github-readme-activity-graph.cyclic.app/graph?username=TomBell95&theme=react" 
+         alt="Tom's contribution graph" 
+         data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
+         style="max-width: 100%;"
+       >
+  </a>
 </p>
   
-  <p align="center">
+<p align="center">
   <code><img title="Vue.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" ></code>
   <code><img title="Nuxt.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg"></code>
   <code><img title="React.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
@@ -75,16 +48,3 @@
   <code><img title="Firebase" height="25" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 </p>
-
-<!-- LANGUAGES 
-
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomBell95&layout=compact&hide=css" 
-         alt="TomBell95"
-         style="max-width: 100%; min-width: 100%;">
-  </a>
-</p>
-
--->
