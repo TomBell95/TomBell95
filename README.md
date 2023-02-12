@@ -37,79 +37,9 @@
 </p>
 
 <p align="center">
-  <code>
-      <img 
-           title="VueJS" 
-           alt="vue js" 
-           height="25"
-           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
-           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" >
-  </code>
-  <code>
-      <img 
-           title="NuxtJS" 
-           alt="nuxt js" 
-           height="25"
-           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
-           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" >
-  </code>
-  <code>
-      <img 
-           title="JavaScript" 
-           alt="javascript" 
-           height="25"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  </code>
-  <code>
-      <img 
-           title="HTML 5" 
-           alt="html 5" 
-           height="25"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
-  </code>
-  <code>
-      <img 
-           title="CSS 3" 
-           alt="css 3" 
-           height="25"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
-  </code>
-  <code>
-    <img 
-         title="TailwindCSS" 
-         alt="tailwind css" 
-         width="40px" src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" 
-  data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" >
-  </code>
-  <code>
-        <img 
-           title="Node JS" 
-           alt="node js" 
-           height="25"
-           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" 
-           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" 
-          >
-  </code>
-  <code>
-      <img 
-           title="Python" 
-           alt="python" 
-           height="25"
-           src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" 
-          >
-  </code>
-  <code>
-    <img 
-        title="MongoDB" 
-        alt="mongodb" 
-         height="25"
-         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" 
-         data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" 
-         >
-  </code>
+  
+  
+  
   <code>
         <img 
             title="Firebase" 
@@ -129,40 +59,24 @@
   </code>
   <code>
 </p>
+  
+  <p align="center">
+  <code><img title="Vue.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" ></code>
+  <code><img title="Nuxt.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg"></code>
+  <code><img title="React.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
+  <code><img title="Next.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="TailwindCSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img title="Node.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="Firebase" height="25" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+</p>
 
 <!-- LANGUAGES 
-
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
 
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
