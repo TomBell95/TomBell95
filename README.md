@@ -177,8 +177,8 @@
      target="_blank" 
      rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
     <img 
-         src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
-         alt="Adrian's contribution graph" 
+         src="https://github-readme-activity-graph.cyclic.app/graph?username=TomBell95&theme=react" 
+         alt="Tom's contribution graph" 
          data-canonical-src="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark" 
          style="max-width: 100%;">
   </a>
