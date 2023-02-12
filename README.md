@@ -24,8 +24,7 @@
          style="max-width: 100%; min-width: 100%;">
   </a>
 </p>
-
-<!-- LANGUAGES -->
+<!-- LANGUAGES 
 <p align="center" dir="auto" style="display:flex;">
   <code>
     <a 
@@ -169,6 +168,8 @@
   </code>
   <code>
 </p>
+
+-->
 
 <p 
    align="center" 
