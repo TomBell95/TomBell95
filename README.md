@@ -41,7 +41,7 @@
       <img 
            title="VueJS" 
            alt="vue js" 
-           width="40px" 
+           height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
            data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
            style="max-width: 100%;">
@@ -50,7 +50,7 @@
       <img 
            title="NuxtJS" 
            alt="nuxt js" 
-           width="40px" 
+           height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
            data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
            style="max-width: 100%;">
@@ -59,7 +59,7 @@
       <img 
            title="JavaScript" 
            alt="javascript" 
-           width="40px" 
+           height="25"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
            style="max-width: 100%;">
@@ -68,7 +68,7 @@
       <img 
            title="HTML 5" 
            alt="html 5" 
-           width="40px" 
+           height="25"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
            style="max-width: 100%;">
@@ -77,7 +77,7 @@
       <img 
            title="CSS 3" 
            alt="css 3" 
-           width="40px" 
+           height="25"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
            data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
            style="max-width: 100%;">
@@ -94,7 +94,7 @@
         <img 
            title="Node JS" 
            alt="node js" 
-           width="40px" 
+           height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" 
            data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" 
            style="max-width: 100%;">
@@ -103,7 +103,7 @@
       <img 
            title="Python" 
            alt="python" 
-           width="40px" 
+           height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" 
            style="max-width: 100%;">
   </code>
@@ -111,7 +111,7 @@
     <img 
         title="MongoDB" 
         alt="mongodb" 
-         width="40px" 
+         height="25"
          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" 
          data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" 
          style="max-width: 100%;">
@@ -120,7 +120,7 @@
         <img 
             title="Firebase" 
             alt="firebase" 
-            width="40px" 
+            height="25"
             src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
             data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
             style="max-width: 100%;">
@@ -129,7 +129,7 @@
         <img 
           title="Git" 
           alt="git" 
-          width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
+          height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
           data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
           style="max-width: 100%;">
   </code>
