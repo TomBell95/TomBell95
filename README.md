@@ -34,17 +34,113 @@
 </p>
   
 <p align="center">
-  <code><img title="Vue.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" ></code>
-  <code><img title="Nuxt.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg"></code>
-  <code><img title="React.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
-  <code><img title="Next.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg"></code>
-  <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img title="TailwindCSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
-  <code><img title="Node.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"></code>
-  <code><img title="Firebase" height="25" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+  <code>
+    
+  </code>
+  <code>
+
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    
+  </code>
+  <code>
+    <img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  </code>
 </p>
+
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Vue.js" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg">
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Nuxt.js" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg">        
+      </a>
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="React.js" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
+      </a>
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Next.js" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg">
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Javascript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="TailwindCSS" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Node.js" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg">
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Python" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+        <img title="MongoDB" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img title="Firebase" width="48" height="48" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
