@@ -43,8 +43,7 @@
            alt="vue js" 
            height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
-           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" 
-           style="max-width: 100%;">
+           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" >
   </code>
   <code>
       <img 
@@ -52,8 +51,7 @@
            alt="nuxt js" 
            height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
-           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" 
-           style="max-width: 100%;">
+           data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" >
   </code>
   <code>
       <img 
@@ -61,8 +59,7 @@
            alt="javascript" 
            height="25"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-           style="max-width: 100%;">
+           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   </code>
   <code>
       <img 
@@ -70,8 +67,7 @@
            alt="html 5" 
            height="25"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-           style="max-width: 100%;">
+           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
   </code>
   <code>
       <img 
@@ -79,16 +75,14 @@
            alt="css 3" 
            height="25"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-           style="max-width: 100%;">
+           data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   </code>
   <code>
     <img 
          title="TailwindCSS" 
          alt="tailwind css" 
          width="40px" src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" 
-  data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
-  style="max-width: 100%;">
+  data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" >
   </code>
   <code>
         <img 
@@ -97,7 +91,7 @@
            height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" 
            data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" 
-           style="max-width: 100%;">
+          >
   </code>
   <code>
       <img 
@@ -105,7 +99,7 @@
            alt="python" 
            height="25"
            src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" 
-           style="max-width: 100%;">
+          >
   </code>
   <code>
     <img 
@@ -114,7 +108,7 @@
          height="25"
          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" 
          data-canonical-src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" 
-         style="max-width: 100%;">
+         >
   </code>
   <code>
         <img 
@@ -123,7 +117,7 @@
             height="25"
             src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
             data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" 
-            style="max-width: 100%;">
+            >
   </code>
   <code>
         <img 
@@ -131,7 +125,7 @@
           alt="git" 
           height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
           data-canonical-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" 
-          style="max-width: 100%;">
+          >
   </code>
   <code>
 </p>
