@@ -37,7 +37,7 @@
   <code><img title="Vue.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" ></code>
   <code><img title="Nuxt.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg"></code>
   <code><img title="React.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
-  <code><img title="Next.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"></code>
+  <code><img title="Next.js" height="25" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg"></code>
   <code><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
