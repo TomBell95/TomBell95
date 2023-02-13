@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+%F0%9F%91%8B;I'm+a+FE+developer+who+loves+to+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
     </a>
 </h1>
-
+<!--  
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://thomasbell.dev/">
     <img 
@@ -21,6 +21,9 @@
        style="max-width: 100%;">
   </a>
 </p>
+-->
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=react" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
