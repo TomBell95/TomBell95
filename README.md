@@ -5,8 +5,8 @@
 </h1>
 
 <a href="https://www.thomasbell.dev/">
-  <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=react" />
-  <img height="190px" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=react&date_format=j%20M%5B%20Y%5D" />
+  <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&hide_border=true&show_icons=true&theme=react" />
+  <img height="190px" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&hide_border=true&theme=react&date_format=j%20M%5B%20Y%5D" />
 </a>
 
 <p align="center">
