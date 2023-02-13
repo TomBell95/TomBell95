@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-<a href="https://www.thomasbell.dev/"><img height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&show_icons=true&theme=react" /><!-- wi*quL3fcV --><img height="180px" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
+<a href="https://www.thomasbell.dev/"><img height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=TomBell95&count_private=true&hide_border=true&show_icons=true&theme=react" /><!-- wi*quL3fcV --><img height="180px" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=TomBell95&amp;theme=react-dark">
