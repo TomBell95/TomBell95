@@ -6,7 +6,7 @@
 
 <a href="https://www.thomasbell.dev/">
 <!--   <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=TomBell95" /> -->
-  <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=TomBell95&show_icons=true&theme=react&rank_icon=github" />
+  <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=TomBell95&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true&count_private=true&hide_border=true" />
   <img height="190px" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&include_all_commits=true&count_private=true&hide_border=true&theme=react&date_format=j%20M%5B%20Y%5D" />
 </a>
 
