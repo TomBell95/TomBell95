@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img title="Nuxt.js" width="48" height="48" src="https://nuxt.com/assets/design-kit/logo/icon-green.svg">        
+        <img title="Nuxt.js" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg">        
       </a>
       <br>Nuxt.js
     </td>
