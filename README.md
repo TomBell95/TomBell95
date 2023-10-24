@@ -6,7 +6,7 @@
 
 <a href="https://www.thomasbell.dev/">
 <!--   <img height="180px" width="49%" src="https://github-readme-stats.vercel.app/api?username=TomBell95" /> -->
-  <img height="180px" width="49%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=TomBell95&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&langs_count=10&hide=jupyter%20notebook&cache=86400" />
+  <img height="180px" width="49%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=TomBell95&langs_count=10" />
   <img height="190px" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=TomBell95&include_all_commits=true&count_private=true&hide_border=true&theme=react&date_format=j%20M%5B%20Y%5D" />
 </a>
 
