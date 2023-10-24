@@ -54,6 +54,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img title="Typescript" width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img title="Javascript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       </a>
       <br>JavaScript
